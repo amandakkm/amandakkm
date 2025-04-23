@@ -2,7 +2,7 @@
 
 🌱 Engenheira Química | Consultora Ambiental
 <p></p>
-💻 Estudante de programação | Análise e Desenvolvimento de Sistemas (SENAC)
+💻 Estudante de programação | Análise e Desenvolvimento de Sistemas (SENAC) | Estagiária de desenvolvimento em PowerBuilder
 <p></p>
 📖 Leitora compulsiva, aprendizado constante
 
